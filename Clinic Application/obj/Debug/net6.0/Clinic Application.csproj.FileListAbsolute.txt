@@ -1,0 +1,26 @@
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\appsettings.json
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\Clinic Application.staticwebassets.runtime.json
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\Clinic Application.exe
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\Clinic Application.deps.json
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\Clinic Application.runtimeconfig.json
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\Clinic Application.dll
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\bin\Debug\net6.0\Clinic Application.pdb
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.csproj.AssemblyReference.cache
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.AssemblyInfoInputs.cache
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.AssemblyInfo.cs
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.csproj.CoreCompileInputs.cache
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.RazorAssemblyInfo.cache
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.RazorAssemblyInfo.cs
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\scopedcss\bundle\Clinic Application.styles.css
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\scopedcss\projectbundle\Clinic Application.bundle.scp.css
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.dll
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\refint\Clinic Application.dll
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.pdb
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\Clinic Application.genruntimeconfig.cache
+C:\Users\Abdif\OneDrive\Documents\2023Projects\Clinic Application\Clinic Application\obj\Debug\net6.0\ref\Clinic Application.dll
