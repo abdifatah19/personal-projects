@@ -8,8 +8,10 @@ namespace Clinic_Application.Models
         [Required]
         [Range(5,30, ErrorMessage =" your first name is either too long or too short")]
         public string? Firstname { get; set; }
+        [Required]
         public string? LastName { get; set; }
         [Required(ErrorMessage ="Your Age is required")]
+        [Range(18,90,ErrorMessage ="Your age should be between 18 and 90")]
         public int? Age { get; set; }
         public DateOnly? DateofBirth { get; set; }
         public Guid? PatientId { get; set; }

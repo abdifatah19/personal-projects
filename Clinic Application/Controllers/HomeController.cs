@@ -7,7 +7,7 @@ namespace Clinic_Application.Controllers
     public class HomeController : Controller
     {
         [Route("/patient")]
-        public IActionResult Index()
+        public IActionResult Index(String? Firstname, String? LastName)
         {
             return View();
         }
