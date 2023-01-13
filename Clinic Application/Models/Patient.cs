@@ -13,6 +13,7 @@ namespace Clinic_Application.Models
         [Required(ErrorMessage ="Your Age is required")]
         [Range(18,90,ErrorMessage ="Your age should be between 18 and 90")]
         public int? Age { get; set; }
+        [Required]
         public DateOnly? DateofBirth { get; set; }
         public Guid? PatientId { get; set; }
 
